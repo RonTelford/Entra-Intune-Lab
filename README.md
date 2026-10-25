@@ -41,13 +41,13 @@ in the tenant. The trial tenant is a lab tenant only, not a
 production environment.
 
 **Screenshots (redacted)**
-- `screenshots/01-admin-center-testuser-redacted.png` — Test user in
+- `screenshots/AdminCenterTestUser.png` — Test user in
   the Microsoft 365 admin center: standard user, no administrator
   access.
-- `screenshots/02-dsregcmd-entra-joined-redacted.png` — `whoami`,
+- `screenshots/AzureADjoined.png` — `whoami`,
   `hostname`, and `dsregcmd /status` on WIN11-Intune confirming
   Entra Join.
-- `screenshots/03-access-work-or-school-mdm-redacted.png` — Settings >
+- `screenshots/AccessWorkOrSchoolMDMConnected.png` — Settings >
   Accounts > Access work or school showing the device connected to
   MDM and Entra ID.
 
